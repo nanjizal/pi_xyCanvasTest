@@ -1,4 +1,4 @@
-  -cp src
+-cp src
 -js bin/testBytes.js
 -lib htmlHelper
 -lib justPath
